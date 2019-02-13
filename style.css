@@ -53,11 +53,20 @@ p {
   box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
   border: 1px solid rgba(0, 0, 0, 0.1);
 }
-.card li {
+
+.card-btn {
+  background-color: #FFFAEF;
+  margin: 20px 0px;
+  padding: 5px 30px;
+  border-radius: 8px;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+.card-btn li {
   padding: 0 30px;
 }
 
-.card ul {
+.card-btn ul {
   padding-left: 0;
 }
 
@@ -98,4 +107,8 @@ p {
 .btn-brown:hover {
   background-color: #6e3b3b;
   color: #FFFAEE;
+}
+
+.margin-big {
+  margin: 35px 0 20px 0;
 }
