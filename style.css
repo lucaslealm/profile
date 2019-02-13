@@ -1,7 +1,7 @@
 body {
   background-color: #F3CF9F;
   font-family: 'Open Sans', sans-serif;
-  font-size:14px;
+  font-size:15px;
   color: #6e3b3b;
   line-height: 1.6;
   }
@@ -67,6 +67,14 @@ p {
 }
 
 .card-btn ul {
+  padding-left: 0;
+}
+
+.card li {
+  padding: 0 30px;
+}
+
+.card ul {
   padding-left: 0;
 }
 
